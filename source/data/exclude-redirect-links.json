@@ -160,6 +160,22 @@
     "destination": "/bam-cop-2026/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy.html"
   },
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/businesses/make-changes-your-business-operations/change-owners-partners-directors.html",
+    "destination": "/bam-cop-2026/en/revenue-agency/services/update-information-cra/businesses/make-changes-your-business-operations/change-owners-partners-directors.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/businesses/make-changes-your-business-operations/change-owners-partners-directors/sole-proprietorship-partnership-changes.html",
+    "destination": "/bam-cop-2026/en/revenue-agency/services/update-information-cra/businesses/make-changes-your-business-operations/change-owners-partners-directors/sole-proprietorship-partnership-changes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/businesses/make-changes-your-business-operations/change-owners-partners-directors/changes-corporation-directors-officers.html",
+    "destination": "/bam-cop-2026/en/revenue-agency/services/update-information-cra/businesses/make-changes-your-business-operations/change-owners-partners-directors/changes-corporation-directors-officers.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/businesses/make-changes-your-business-operations/change-owners-partners-directors/unincorporated-legal-entity-changes.html",
+    "destination": "/bam-cop-2026/en/revenue-agency/services/update-information-cra/businesses/make-changes-your-business-operations/change-owners-partners-directors/unincorporated-legal-entity-changes.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business/registered-ontario.html",
     "destination": "/bam-cop-2026/en/revenue-agency/services/tax/businesses/topics/changes-your-business/registered-ontario.html"
   },
@@ -362,6 +378,22 @@
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/faillite.html",
     "destination": "/bam-cop-2026/fr/agence-revenu/services/impot/entreprises/sujets/inscription-entreprise/gerer-entreprise/mise-sous-sequestre-faillite/faillite.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789573197600/nouvelle-page-1795031949049.html",
+    "destination": "/bam-cop-2026/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789573197600/nouvelle-page-1795031949049.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789573197600/nouvelle-page-1795031949049/nouvelle-page-1795032041223.html",
+    "destination": "/bam-cop-2026/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789573197600/nouvelle-page-1795031949049/nouvelle-page-1795032041223.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789573197600/nouvelle-page-1795031949049/nouvelle-page-1795032118616.html",
+    "destination": "/bam-cop-2026/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789573197600/nouvelle-page-1795031949049/nouvelle-page-1795032118616.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789573197600/nouvelle-page-1795031949049/nouvelle-page-1795032200087.html",
+    "destination": "/bam-cop-2026/fr/agence-revenu/services/mettre-a-jour-renseignements-arc/nouvelle-page-1789573197600/nouvelle-page-1795031949049/nouvelle-page-1795032200087.html"
   },
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/changements-effectues-a-votre-entreprise/inscrit-ontario.html",
